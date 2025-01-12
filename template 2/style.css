@@ -1,0 +1,80 @@
+.container {
+    border: 6px solid white;
+display: grid;
+height: auto;
+
+grid-auto-flow: column;
+grid-auto-columns: auto;
+grid-auto-rows: auto;
+}
+.download-cv{
+background-color: orangered;
+color: white;
+width:100px;
+text-align: center;
+}
+.muhammed-1{
+    width: 20%;
+    height: 20%;
+    float: right;
+    padding-right: 400px;
+}
+.orange{
+    color: orangered;
+}
+.hire-me{
+    background-color: orangered;
+    color:white;
+    height: 30px;
+    width: 100px;
+}
+.description{
+ padding-left: 100px;
+align-items: center;
+margin-top: 100PX;
+
+}
+.muhammed-2{
+    width: 20%;
+    height: 20%;
+    float: left;
+    padding-left: 100px;
+}
+.slidecontainer{
+accent-color: orangered;
+}
+.slidecontainer2{
+accent-color: orangered;
+}
+.slidecontainer3{
+accent-color: orangered;
+}
+.slidecontainer4{
+accent-color: orangered;
+}
+.tabs{
+    padding-left: 500px;
+}
+
+.card-1{
+    width: 20%;
+    height: 20%;
+    margin-top: 30px;
+
+}
+.card-2{
+    width: 20%;
+    height: 20%;
+
+}
+.card-3{
+    width: 20%;
+    height: 20%;
+
+}
+
+.testimonials-section{
+   justify-items: center;
+}
+.contact-section{
+padding-left: 500px;}
